@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://arunkumar17hz.github.io/malar-event-management/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arunkumar17hz.github.io/malar-event-management/"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://arunkumar17hz.github.io/malar-event-management/ta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arunkumar17hz.github.io/malar-event-management/"/>
+    <image:image><image:loc>https://arunkumar17hz.github.io/malar-event-management/images/wedding-stage.jpg</image:loc><image:title>Wedding stage decoration in Kallakurichi</image:title></image:image>
+    <image:image><image:loc>https://arunkumar17hz.github.io/malar-event-management/images/floral-decor.jpg</image:loc><image:title>Wedding floral garland décor Kallakurichi</image:title></image:image>
+    <image:image><image:loc>https://arunkumar17hz.github.io/malar-event-management/images/reception-table.jpg</image:loc><image:title>Wedding reception styling Kallakurichi</image:title></image:image>
+    <image:image><image:loc>https://arunkumar17hz.github.io/malar-event-management/images/corporate-gala.jpg</image:loc><image:title>Corporate event management Tamil Nadu</image:title></image:image>
+    <image:image><image:loc>https://arunkumar17hz.github.io/malar-event-management/images/photo-candid.jpg</image:loc><image:title>Candid wedding photography Kallakurichi</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://arunkumar17hz.github.io/malar-event-management/ta/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arunkumar17hz.github.io/malar-event-management/"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://arunkumar17hz.github.io/malar-event-management/ta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arunkumar17hz.github.io/malar-event-management/"/>
+  </url>
+</urlset>
